@@ -41,7 +41,7 @@ namespace Cities
                 }
                 Console.WriteLine($"Отлично! Вы получаете 1 очко. Всего очков: {count}");
                 usedCities.Append(users_city);
-                currentCity = task4.FindCity(users_city[users_city.Length - 1]);
+                currentCity = task4.FindeOnLet(users_city[users_city.Length - 1]);
                 Console.WriteLine($"Следующий город - {currentCity}");
 
             }
