@@ -8,7 +8,7 @@ namespace Cities
     {
         public bool FindCities(string a)
         {
-            return ReadCities.citiesList.Contains(a);
+            return Array.BinarySearch(ReadCities.citiesList, a) > 0;
         }
     }
 }
