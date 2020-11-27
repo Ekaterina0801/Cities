@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace Cities
 {
@@ -6,9 +6,7 @@ namespace Cities
     {
         static void Main(string[] args)
         {
-           
-            Console.WriteLine("Hello World!");
-            
+          
         }
     }
 }

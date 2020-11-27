@@ -4,12 +4,11 @@ using System.Text;
 
 namespace Cities
 {
-    public class task3
+    class Class1
     {
-        string citiesList;
         public bool FindCities(string a)
         {
-            return citiesList.Contains(a);
+            return ReadCities.citiesList.Contains(a);
         }
     }
 }

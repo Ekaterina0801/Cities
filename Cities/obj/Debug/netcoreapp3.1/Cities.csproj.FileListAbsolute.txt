@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\Cities\obj\Debug\netcoreapp3.1\Cities.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Cities\obj\Debug\netcoreapp3.1\Cities.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Cities\obj\Debug\netcoreapp3.1\Cities.AssemblyInfo.cs
+C:\Users\PC\source\repos\Cities\obj\Debug\netcoreapp3.1\Cities.csproj.CoreCompileInputs.cache
