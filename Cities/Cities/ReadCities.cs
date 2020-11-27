@@ -16,5 +16,8 @@ namespace Cities
         {
             return File.ReadAllLines(path);
         }
+
+        public static string[] citiesList = ReadCities.ReadCitiesFunc("cities_list.txt"); // список городов
+
     }
 }
