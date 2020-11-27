@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Cities
 {
-    class Class1
+    class task3
     {
         public bool FindCities(string a)
         {
